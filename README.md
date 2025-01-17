@@ -1,7 +1,7 @@
 # Tarea 03 Pokemon
 
 ## Introducción
-Un ejercicio para el módulo de 
+Ejercicio para el módulo de Programación multimedia y dispositivos móviles.
 
 ## Características principales
 - **Autenticación**: Inicio de sesión y registro para usuarios usando Firebase con logeo por contraseña y por cuenta google.
