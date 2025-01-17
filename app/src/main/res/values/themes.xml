@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Tarea_03_RMLP" parent="Theme.Material3.DayNight.NoActionBar">
+       <item name="colorOnPrimary">@color/azul</item>
+        <item name="android:windowBackground">@color/azul</item>
+
+        <!-- splashscreen  -->
+       
+
+    </style>
+
+
+
+    <style name="Theme.Tarea_03_RMLP" parent="Base.Theme.Tarea_03_RMLP" />
+</resources>

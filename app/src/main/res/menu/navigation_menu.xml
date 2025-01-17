@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/pokemonFragment"
+        android:title="@string/menu_pokemon"
+        android:icon="@drawable/pokeball_icon">
+
+    </item>
+    <item
+        android:id="@+id/pokedexFragment"
+        android:title="@string/menu_pokedex"
+        android:icon="@mipmap/pokedex">
+    </item>
+    <item
+        android:id="@+id/ajustesFragment"
+        android:title="@string/menu_ajustes"
+        android:icon="@drawable/ajuste_icon">
+    </item>
+
+</menu>

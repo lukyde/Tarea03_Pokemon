@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tarea_03_RMLP</string>
+    <string name="title_activity_login">Actividad de Inicio de Sesión</string>
+    <string name="prompt_email">Correo electrónico</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Iniciar sesión o registrarse</string>
+    <string name="action_sign_in_short">Iniciar sesión</string>
+    <string name="welcome">"¡Bienvenido!"</string>
+    <string name="invalid_username">Nombre de usuario no válido</string>
+    <string name="invalid_password">La contraseña debe tener más de 5 caracteres</string>
+    <string name="login_failed">"Error al iniciar sesión"</string>
+
+    <string name="error_login">Error de inicio de sesión</string>
+
+    <string name="menu_pokemon">Pokémon</string>
+    <string name="menu_pokedex">Pokédex</string>
+    <string name="menu_ajustes">Configuración</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hola fragmento en blanco</string>
+
+    <!--Mensaje de entrada al personaje capturado-->
+
+    <string name="mensaje">El Pokémon capturado es </string>
+    <string name="eliminado">El Pokemon fue eliminado</string>
+    <string name="eliminado_error">Error al eliminar el Pokemon</string>
+    <!--Ajustes-->
+    <string name="ajustes">Ajustes</string>
+    <string name="cerrar_seccion">Cerrar sesión</string>
+    <string name="borrar">BORRAR</string>
+    <string name="acerca">Acerca de</string>
+    <string name="idoma">Cambio de idioma</string>
+    <string name="habilitar_borrado">Habilitar borrado de pokemon</string>
+    <!--Mensajes de alerta por error-->
+
+    <string name="er_guardar">Error al guardar el pokemon capturado</string>
+    <string name="error_actualizacion">Error al actualizar los datos</string>
+    <string name="idioma_cambiado">Se ha cambiado el idioma</string>
+    <string name="boton_habilitado">El botón de borrado ya aparece</string>
+
+    <!--Detalles pokeom-->
+    <string name="peso">Peso:</string>
+    <string name="altura">Altura:</string>
+    <!--Tipos pokemon-->
+    <string name="tipo_fuego">Fuego</string>
+    <string name="tipo_planta">Planta</string>
+    <string name="tipo_agua">Agua</string>
+    <string name="tipo_electrico">electrico</string>
+    <string name="tipo_normal">Normal</string>
+    <string name="tipo_lucha">Lucha</string>
+    <string name="tipo_volador">Volador</string>
+    <string name="tipo_veneno">Veneno</string>
+    <string name="tipo_tierra">Tierra</string>
+    <string name="tipo_roca">Roca</string>
+    <string name="tipo_bicho">Bicho</string>
+    <string name="tipo_fantasma">Fantasma</string>
+    <string name="tipo_acero">Acero</string>
+    <string name="tipo_psiquico">Psíquico</string>
+    <string name="tipo_hielo">Hielo</string>
+    <string name="tipo_dragon">Dragón</string>
+    <string name="tipo_siniestro">Siniestro</string>
+    <string name="tipo_hada">Hada</string>
+    <string name="tipo_estelar">Estelar</string>
+    <string name="tipo_desconocido">Desconocido</string>
+</resources>

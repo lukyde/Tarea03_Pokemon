@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Tarea_03_RMLP</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="error_login">Login error</string>
+
+    <string name="menu_pokemon">Pokemon</string>
+    <string name="menu_pokedex">Pokedex</string>
+    <string name="menu_ajustes">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Message when the character is captured -->
+
+    <string name="mensaje">The captured Pokémon is </string>
+    <string name="eliminado">El Pokemon fue eliminado</string>
+    <string name="eliminado_error">Error al eliminar el Pokemon</string>
+    <!-- Settings -->
+    <string name="ajustes">Settings</string>
+    <string name="cerrar_seccion">Log out</string>
+    <string name="borrar">DELETE</string>
+    <string name="acerca">About</string>
+    <string name="idoma">Change the language</string>
+    <string name="habilitar_borrado">Habilitar borrado de pokemon</string>
+    <!--Mensajes de alerta por error-->
+
+    <string name="er_guardar">Error when saving captured pokemon</string>
+    <string name="error_actualizacion">Update error</string>
+    <string name="idioma_cambiado">The language has been changed</string>
+    <string name="boton_habilitado">The delete button now appears</string>
+
+    <!--Detalles pokeom-->
+    <string name="peso">Weight:</string>
+    <string name="altura">Height:</string>
+    <!--Tipos pokemon-->
+    <string name="tipo_fuego">Fire</string>
+    <string name="tipo_planta">Grass</string>
+    <string name="tipo_agua">Water</string>
+    <string name="tipo_electrico">electric</string>
+    <string name="tipo_normal">Normal</string>
+    <string name="tipo_lucha">Fighting</string>
+    <string name="tipo_volador">Flying</string>
+    <string name="tipo_veneno">Poison</string>
+    <string name="tipo_tierra">Ground</string>
+    <string name="tipo_roca">Rock</string>
+    <string name="tipo_bicho">Bug</string>
+    <string name="tipo_fantasma">Ghost</string>
+    <string name="tipo_acero">Steel</string>
+    <string name="tipo_psiquico">Psychic</string>
+    <string name="tipo_hielo">Ice</string>
+    <string name="tipo_dragon">Dragon</string>
+    <string name="tipo_siniestro">Dark</string>
+    <string name="tipo_hada">Fairy</string>
+    <string name="tipo_estelar">Stellar</string>
+    <string name="tipo_desconocido">Unknown</string>
+
+</resources>
